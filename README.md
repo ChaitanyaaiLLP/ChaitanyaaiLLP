@@ -7,6 +7,7 @@ Welcome to **Chaitanyaai LLP** - Your trusted partner in AI Services! 🌟
 Chaitanyaai LLP is an AI service-based company founded in 2023. We specialize in providing cutting-edge AI solutions to help businesses innovate and thrive in the digital era. Our expertise spans a wide range of AI domains including:
 
 - **Generative AI** ✨
+- **AI Agent Development** 🤖
 - **Data Science** 📊
 - **Computer Vision** 👁️
 - **MLOps** 🔄
@@ -19,6 +20,8 @@ For more details about our services, visit our [website](https://chaitanyaai.in/
 
 1. **Generative AI**:
     - Text generation, Image generation, and more.
+2. **AI Agent Development**:
+   - Custom AI agents for research, analysis, coding, audits, and segmentation using cutting-edge tools like AutoGen Studio, VertexAI Agent Builder, and CrewAI
 2. **Data Science**:
     - Advanced analytics, predictive modeling, and data-driven decision making.
 3. **Computer Vision**:
